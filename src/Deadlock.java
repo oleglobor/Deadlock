@@ -1,5 +1,5 @@
 
-public class Deadlock {
+public class Deadlock { //1 варіант
     static class Friend {
         private final String name;
         public Friend(String name) {

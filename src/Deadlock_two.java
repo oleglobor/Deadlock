@@ -1,4 +1,4 @@
-public class Deadlock_two { //2 варіант
+public class Deadlock_two {
         public static void main(String[] args) {
             final String resource1 = "Люблю пляцки з тертої бульби";
             final String resource2 = "Дюблю сирники";
